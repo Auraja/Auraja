@@ -54,6 +54,13 @@ My work sits at the intersection of **machine learning engineering and product e
 <p align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-0ea5e9?style=flat-square" /></p>
 </td>
 </tr>
+<tr>
+<td colspan="2">
+<h3 align="center"><a href="https://github.com/Auraja/personal-expense-ledger">Personal Expense Ledger</a></h3>
+<p align="center">A privacy-aware, self-hosted expense product for transaction tracking, analytics, reporting, and image-assisted intake.</p>
+<p align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/Privacy--aware-0f766e?style=flat-square" /></p>
+</td>
+</tr>
 </table>
 
 ## Engineering approach
