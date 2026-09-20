@@ -73,8 +73,8 @@ I build practical AI products, machine learning applications, and reliable softw
 
 <div align="center">
 
-<a href="https://github.com/Auraja"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Auraja&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" /></a>
-<a href="https://github.com/Auraja"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auraja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" /></a>
+<a href="https://github.com/Auraja"><img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Auraja&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" /></a>
+<a href="https://github.com/Auraja"><img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Auraja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" /></a>
 
 <br />
 
