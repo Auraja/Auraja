@@ -1,51 +1,49 @@
-# Hi, I'm Derajat 👋
+# Derajat Salim Wibowo (@Auraja)
 
-I am an **AI Engineer and Solutions Consultant** focused on building practical, production-minded software with machine learning, automation, and modern web technologies.
+AI Engineer and Solutions Consultant building practical machine learning applications, software products, and reliable self-hosted systems.
 
-I enjoy turning ideas into useful products—from recommendation systems and AI-assisted workflows to self-hosted platforms with secure APIs, dashboards, and clear user experiences.
+I enjoy working across the full journey of a product: understanding the problem, preparing the data, designing the system, building the interface, and making the result useful and maintainable.
 
-## What I work on
+- Focus: AI Engineering, applied machine learning, and product development
+- Interests: recommendation systems, AI-assisted workflows, secure APIs, and automation
+- Portfolio: [derajat.tech](https://derajat.tech)
+- GitHub: [github.com/Auraja](https://github.com/Auraja)
 
-- AI and machine learning applications
-- Recommendation systems and applied data science
-- Full-stack product development
-- FastAPI, Python, React, Next.js, and TypeScript
-- PostgreSQL, SQLite, Docker, and self-hosted deployments
-- Secure APIs, authentication, monitoring, and operational tooling
-- AI-assisted automation and reusable engineering workflows
+---
 
-## Featured projects
+## What I Build
 
-### [derajat.tech](https://github.com/Auraja/derajat-tech)
-My dynamic AI engineering portfolio and content platform. It combines a React/Vite frontend, FastAPI backend, PostgreSQL, portfolio content management, public inquiries, analytics, and a foundation for interactive AI demonstrations.
+- Machine learning systems that solve clear user problems
+- Full-stack applications with Python, FastAPI, React, and TypeScript
+- Self-hosted products using Docker, PostgreSQL, and SQLite
+- Secure dashboards, internal tools, and operational platforms
+- Reusable workflows for AI-assisted development and automation
 
-### [Movie Recommender](https://github.com/Auraja/movie-recommender)
-A content-based movie recommendation project using the MovieLens dataset, TF-IDF profiles, and cosine similarity. It demonstrates the complete workflow from data preparation to recommendation and evaluation.
+## Selected Repositories
 
-### [Server Dashboard](https://github.com/Auraja/server-dashboard)
-A self-hosted Ubuntu and Docker monitoring dashboard with authentication, resource history, controlled service actions, audit logging, and defense-in-depth container isolation.
+| Repository | Description | Main Focus |
+| --- | --- | --- |
+| [derajat-tech](https://github.com/Auraja/derajat-tech) | Dynamic AI engineering portfolio with content management, public project pages, contact handling, analytics, and an AI demo foundation. | FastAPI · React · PostgreSQL |
+| [movie-recommender](https://github.com/Auraja/movie-recommender) | Content-based movie recommendation system using MovieLens data, TF-IDF profiles, and cosine similarity. | Python · Machine Learning |
+| [server-dashboard](https://github.com/Auraja/server-dashboard) | Self-hosted Ubuntu and Docker dashboard with resource monitoring, controlled service actions, authentication, and audit logging. | FastAPI · Docker · Security |
+| [derajat-work](https://github.com/Auraja/derajat-work) | Personal work operating system for organizing workspaces, knowledge, reusable skills, materials, and templates. | Next.js · FastAPI · SQLite |
+| [personal-expense-ledger](https://github.com/Auraja/personal-expense-ledger) | Self-hosted expense dashboard for recording transactions, reviewing spending, and generating personal reports. | Next.js · Prisma · SQLite |
 
-### [Derajat Work](https://github.com/Auraja/derajat-work)
-A personal work operating system for organizing workspaces, knowledge, reusable skills, teaching materials, templates, and project context.
+## Current Direction
 
-### [Personal Expense Ledger](https://github.com/Auraja/personal-expense-ledger)
-A self-hosted expense dashboard for recording transactions, reviewing spending, generating reports, and supporting privacy-conscious image-assisted intake.
+I am building a focused public portfolio around **AI Engineering**—combining applied ML with strong software engineering, privacy-aware design, and production-like delivery practices.
 
-## Engineering principles
+The goal is not only to train models, but to build complete systems that people can understand, use, and trust.
 
-- Build useful products, not only experiments.
-- Keep systems understandable and easy to operate.
-- Treat security and privacy as part of the design.
-- Validate ideas with working implementations.
-- Document decisions so projects can be maintained and extended.
+## Technology Interests
 
-## Current focus
-
-I am currently building a focused public portfolio around **AI Engineering**, with an emphasis on applied machine learning, reliable product delivery, and production-like engineering practices.
+```text
+Python        FastAPI        Machine Learning        Data Science
+TypeScript    React          Next.js                 PostgreSQL
+SQLite        Docker         REST APIs                Security
+```
 
 ## Connect
 
-- Portfolio: [derajat.tech](https://derajat.tech)
+- Website: [derajat.tech](https://derajat.tech)
 - GitHub: [@Auraja](https://github.com/Auraja)
-
-Thanks for visiting.
